@@ -1,0 +1,18 @@
+# States to watch (LegiScan 2-letter codes). Edit freely.
+states: [CA, NY, TX, CO, UT, MN, FL]
+
+# LegiScan year filter: 2 = current sessions, 1 = all, or an explicit year e.g. 2026
+year: 2
+
+# Full-text queries (LegiScan supports boolean / quoted phrases).
+queries:
+  - '"age verification"'
+  - '"age-appropriate design"'
+  - '"opt-out preference signal"'
+  - '"global privacy control"'
+  - '"right to repair"'
+  - 'interoperability'
+  - '"data portability"'
+  - '"content provenance"'
+  - '"synthetic media" disclosure'
+  - '"app store" age'
