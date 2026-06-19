@@ -1,0 +1,1617 @@
+{
+  "1890349": {
+    "bill_number": "HB186",
+    "change_hash": "f25756c4dbdc061badfb4c8a0d665e69",
+    "state": "TX"
+  },
+  "1890686": {
+    "bill_number": "HB421",
+    "change_hash": "619fc684248e26a1c3b29633ca28f4b7",
+    "state": "TX"
+  },
+  "1890738": {
+    "bill_number": "HB1144",
+    "change_hash": "3cc25edc8fff0e9be849335ced9e1498",
+    "state": "TX"
+  },
+  "1890992": {
+    "bill_number": "SB151",
+    "change_hash": "34e9cfc3dc6f188db8504fd4a2f8e1c2",
+    "state": "TX"
+  },
+  "1891063": {
+    "bill_number": "HB581",
+    "change_hash": "969bf1aa6bdd5e7895612d52869fdfe1",
+    "state": "TX"
+  },
+  "1893405": {
+    "bill_number": "AB8",
+    "change_hash": "97dfe8fe7d53949e77790f5996f09037",
+    "state": "CA"
+  },
+  "1895026": {
+    "bill_number": "HB1552",
+    "change_hash": "32b4f70868e014a4f1f5d18bf1571c23",
+    "state": "TX"
+  },
+  "1896812": {
+    "bill_number": "HB1621",
+    "change_hash": "1bf5405cac3817af4300c6bbd0faa667",
+    "state": "TX"
+  },
+  "1898516": {
+    "bill_number": "S00196",
+    "change_hash": "a57a6a7b009260c93c6934dcb9b93696",
+    "state": "NY"
+  },
+  "1898826": {
+    "bill_number": "HB1709",
+    "change_hash": "d9c4419daf2a92c12a4d30db7f2f7979",
+    "state": "TX"
+  },
+  "1903450": {
+    "bill_number": "A00837",
+    "change_hash": "14f3a9d6c313de5d66e72c60562afe94",
+    "state": "NY"
+  },
+  "1903553": {
+    "bill_number": "S00927",
+    "change_hash": "506e5f6d4a9224b7f2c3a0501264a740",
+    "state": "NY"
+  },
+  "1903556": {
+    "bill_number": "HB1747",
+    "change_hash": "1456d490a1f5fe3b32c72497427543b3",
+    "state": "TX"
+  },
+  "1908086": {
+    "bill_number": "AB101",
+    "change_hash": "3b8bc0ee6e2da9fa97878e2e94af6438",
+    "state": "CA"
+  },
+  "1908087": {
+    "bill_number": "AB102",
+    "change_hash": "5c462a3479ffcda89a708419cd92f88f",
+    "state": "CA"
+  },
+  "1908089": {
+    "bill_number": "AB104",
+    "change_hash": "726e5e195db62d4b081b38a34c210604",
+    "state": "CA"
+  },
+  "1908094": {
+    "bill_number": "AB109",
+    "change_hash": "c8a480983c3615d3ee003a3a3a0cb76e",
+    "state": "CA"
+  },
+  "1908108": {
+    "bill_number": "AB123",
+    "change_hash": "ce57c39cb3c058321e296bb5b236227f",
+    "state": "CA"
+  },
+  "1908207": {
+    "bill_number": "AB222",
+    "change_hash": "1fa4c08067c1bb9d3d3dae2643b51780",
+    "state": "CA"
+  },
+  "1912377": {
+    "bill_number": "AB227",
+    "change_hash": "46eead7d8c5bc92a0e2f227a6f3a6a04",
+    "state": "CA"
+  },
+  "1912378": {
+    "bill_number": "SB65",
+    "change_hash": "9dafe18d2d474adcb5fa53e60828d1a8",
+    "state": "CA"
+  },
+  "1921638": {
+    "bill_number": "A02248",
+    "change_hash": "b5ae88ed6746824116d97d042422dba7",
+    "state": "NY"
+  },
+  "1926274": {
+    "bill_number": "AB257",
+    "change_hash": "63ba871459f5af339a2fe8240ae4cbae",
+    "state": "CA"
+  },
+  "1927014": {
+    "bill_number": "S02414",
+    "change_hash": "30404bec41164046cac213a1f69173e9",
+    "state": "NY"
+  },
+  "1927768": {
+    "bill_number": "SF386",
+    "change_hash": "d4242e96ced8a2b91ba9dab689ba9723",
+    "state": "MN"
+  },
+  "1928283": {
+    "bill_number": "SF334",
+    "change_hash": "3eb03193c3cdbeb75bfe2a644401064d",
+    "state": "MN"
+  },
+  "1932675": {
+    "bill_number": "S02583",
+    "change_hash": "eb285c283574806d79debb0a1d9c1671",
+    "state": "NY"
+  },
+  "1934292": {
+    "bill_number": "A02729",
+    "change_hash": "8431b5544a79f4ceda52f62afa550cde",
+    "state": "NY"
+  },
+  "1934636": {
+    "bill_number": "A03000",
+    "change_hash": "07a3fc3908d76746fb42bfe96ac4863d",
+    "state": "NY"
+  },
+  "1934808": {
+    "bill_number": "S03004",
+    "change_hash": "8c77a3ad75d990b5f6517753faa3f561",
+    "state": "NY"
+  },
+  "1934813": {
+    "bill_number": "HF123",
+    "change_hash": "7b63eb311f15379f2d96d593478035c1",
+    "state": "MN"
+  },
+  "1934824": {
+    "bill_number": "A03003",
+    "change_hash": "e92b9e3c5948fb1dedc7513d9b7812df",
+    "state": "NY"
+  },
+  "1934835": {
+    "bill_number": "S03007",
+    "change_hash": "64c1140d158fbe52804dac1bcf49622f",
+    "state": "NY"
+  },
+  "1934869": {
+    "bill_number": "A03007",
+    "change_hash": "23e91db117d2b73bc841c1c61a69a5a8",
+    "state": "NY"
+  },
+  "1935000": {
+    "bill_number": "A03004",
+    "change_hash": "234457ef8c7e22f7b0167866ecac9da4",
+    "state": "NY"
+  },
+  "1935190": {
+    "bill_number": "S03003",
+    "change_hash": "9bccc110ebf6bc8927d5b75dfa6e7460",
+    "state": "NY"
+  },
+  "1935223": {
+    "bill_number": "S03000",
+    "change_hash": "9c803df0e5285aeec7b6ea0c59c9ed04",
+    "state": "NY"
+  },
+  "1939197": {
+    "bill_number": "SB101",
+    "change_hash": "1a768f4c1404f6f333b168ed9a0a5fe7",
+    "state": "CA"
+  },
+  "1939198": {
+    "bill_number": "SB102",
+    "change_hash": "ecd5c309616274f5b557b8635cea6312",
+    "state": "CA"
+  },
+  "1939200": {
+    "bill_number": "SB104",
+    "change_hash": "492c505a7f33368fd8e4d3947843a900",
+    "state": "CA"
+  },
+  "1939205": {
+    "bill_number": "SB109",
+    "change_hash": "15f2d65a2b20cba35c7571f77493349a",
+    "state": "CA"
+  },
+  "1939220": {
+    "bill_number": "SB123",
+    "change_hash": "9e0d3c49635a1667d25dd514c887b033",
+    "state": "CA"
+  },
+  "1942100": {
+    "bill_number": "S03346",
+    "change_hash": "0a8a1fb20c63b962e0463304d0d4ab54",
+    "state": "NY"
+  },
+  "1942603": {
+    "bill_number": "S03410",
+    "change_hash": "1eda87464f6012c85c75212cd0d3530c",
+    "state": "NY"
+  },
+  "1944397": {
+    "bill_number": "S03591",
+    "change_hash": "6f9b298d7bf1463c1e4708384abb47be",
+    "state": "NY"
+  },
+  "1945196": {
+    "bill_number": "AB334",
+    "change_hash": "8106198d81718abd371730e302add033",
+    "state": "CA"
+  },
+  "1948752": {
+    "bill_number": "A03946",
+    "change_hash": "15b5dd2fc4d27de527ee447fe1e96281",
+    "state": "NY"
+  },
+  "1950270": {
+    "bill_number": "A04065",
+    "change_hash": "9b6a89598071b1fc1e59a8c616076cf6",
+    "state": "NY"
+  },
+  "1950322": {
+    "bill_number": "A04180",
+    "change_hash": "41ee30fe2df48bf3bddb52edc4e9200b",
+    "state": "NY"
+  },
+  "1950868": {
+    "bill_number": "SF933",
+    "change_hash": "954229c57c58de1d49b41cfdd68e1df9",
+    "state": "MN"
+  },
+  "1950873": {
+    "bill_number": "SF932",
+    "change_hash": "615fd55dd9f9bfd926d55c4ee4d09a48",
+    "state": "MN"
+  },
+  "1950956": {
+    "bill_number": "SF929",
+    "change_hash": "30d8231e8d014dff3436851251e1b24e",
+    "state": "MN"
+  },
+  "1951153": {
+    "bill_number": "SF931",
+    "change_hash": "5076f7a0ff9160d6fa2375ecd868e99e",
+    "state": "MN"
+  },
+  "1951198": {
+    "bill_number": "SF930",
+    "change_hash": "6a48a5cedf152fa403b7efea2e28f0a3",
+    "state": "MN"
+  },
+  "1954763": {
+    "bill_number": "A04631",
+    "change_hash": "3e230446ee9392c7d150db5863189af5",
+    "state": "NY"
+  },
+  "1954817": {
+    "bill_number": "A04561",
+    "change_hash": "f00bbe54e1f338e4396b626df7f51c80",
+    "state": "NY"
+  },
+  "1955751": {
+    "bill_number": "AB405",
+    "change_hash": "ea4f1485aecea3808c619bc0cdc313f9",
+    "state": "CA"
+  },
+  "1959093": {
+    "bill_number": "S04500",
+    "change_hash": "ff7d08c05b5a62060df9cbb1eb982b7b",
+    "state": "NY"
+  },
+  "1961079": {
+    "bill_number": "AB470",
+    "change_hash": "2e5c7c431b5a28ba91e3ff229860eacd",
+    "state": "CA"
+  },
+  "1961784": {
+    "bill_number": "S04558",
+    "change_hash": "1cf281424e2889dd2e405a1ecb37a41f",
+    "state": "NY"
+  },
+  "1963431": {
+    "bill_number": "S04609",
+    "change_hash": "a5440be35d9d81b3e58fe037fe3789ce",
+    "state": "NY"
+  },
+  "1963540": {
+    "bill_number": "S04600",
+    "change_hash": "b7705612a5400fd0ddd190b889f94555",
+    "state": "NY"
+  },
+  "1963584": {
+    "bill_number": "S04655",
+    "change_hash": "e38f820686e9697a4eb5f0f11b14d73e",
+    "state": "NY"
+  },
+  "1964696": {
+    "bill_number": "AB509",
+    "change_hash": "b379b18f0fabde2f822c3a095fdf8a9a",
+    "state": "CA"
+  },
+  "1964699": {
+    "bill_number": "AB512",
+    "change_hash": "a8a5d1539944afd17c54c843ee7c5ea0",
+    "state": "CA"
+  },
+  "1967748": {
+    "bill_number": "SF1417",
+    "change_hash": "b8a1cc48daa5de17db9c08bdb7d80d17",
+    "state": "MN"
+  },
+  "1968207": {
+    "bill_number": "AB566",
+    "change_hash": "5da12d875c45f20799f3c1f14c87724d",
+    "state": "CA"
+  },
+  "1968809": {
+    "bill_number": "S04823",
+    "change_hash": "744f9a9f01a10549c9990e04977a7e9c",
+    "state": "NY"
+  },
+  "1969132": {
+    "bill_number": "HB2807",
+    "change_hash": "a645dce3b9af8d0c239c5895ec3ddbc1",
+    "state": "TX"
+  },
+  "1969462": {
+    "bill_number": "SB1262",
+    "change_hash": "c297bfbe85dbe555cab2587f68c8f0c7",
+    "state": "TX"
+  },
+  "1969574": {
+    "bill_number": "S04875",
+    "change_hash": "ec5c5a55ecc7df0728c7f70034140866",
+    "state": "NY"
+  },
+  "1972192": {
+    "bill_number": "HF861",
+    "change_hash": "f926b1567067b3e930e2a35d81be518f",
+    "state": "MN"
+  },
+  "1972723": {
+    "bill_number": "HF1082",
+    "change_hash": "7387f45a26f1e03386cde7a49a7d27e5",
+    "state": "MN"
+  },
+  "1974445": {
+    "bill_number": "AB728",
+    "change_hash": "c0a461f022af1abc658e08540866499f",
+    "state": "CA"
+  },
+  "1976778": {
+    "bill_number": "HB4",
+    "change_hash": "2bbb447fa8e5df98fcca96cd86f823dc",
+    "state": "TX"
+  },
+  "1977652": {
+    "bill_number": "A05827",
+    "change_hash": "72d9f163e8ff22f732cf3b4d401cd84c",
+    "state": "NY"
+  },
+  "1978578": {
+    "bill_number": "AB1043",
+    "change_hash": "ba073767ac47652a853fcc32812283a0",
+    "state": "CA"
+  },
+  "1978623": {
+    "bill_number": "AB1088",
+    "change_hash": "0418bd2013d46fe51174dfc8d5e04987",
+    "state": "CA"
+  },
+  "1978766": {
+    "bill_number": "SB533",
+    "change_hash": "823ece753f407a8032a367e40ab7baaf",
+    "state": "CA"
+  },
+  "1978843": {
+    "bill_number": "SB610",
+    "change_hash": "292b96a78a8f324a38ad6352d25a7a8a",
+    "state": "CA"
+  },
+  "1978892": {
+    "bill_number": "SB659",
+    "change_hash": "b9c049f99ae34a6360fa21dd558c9ed7",
+    "state": "CA"
+  },
+  "1978893": {
+    "bill_number": "SB660",
+    "change_hash": "1dc07950582a81a8604ac055886b6510",
+    "state": "CA"
+  },
+  "1980067": {
+    "bill_number": "AB1170",
+    "change_hash": "f22d6af632fc2653b1d8b39644c7cf67",
+    "state": "CA"
+  },
+  "1980223": {
+    "bill_number": "AB1326",
+    "change_hash": "8225c32580ac85cb7b21d2b18fe677e5",
+    "state": "CA"
+  },
+  "1980320": {
+    "bill_number": "AB1423",
+    "change_hash": "7aaa9163b80661d8a8fbec7e948dd025",
+    "state": "CA"
+  },
+  "1980543": {
+    "bill_number": "SB813",
+    "change_hash": "f59813d83a820fa116df71e6e19d1167",
+    "state": "CA"
+  },
+  "1980799": {
+    "bill_number": "A05910",
+    "change_hash": "37b2b8e00a5d8658d9145df9bbdef9d0",
+    "state": "NY"
+  },
+  "1980928": {
+    "bill_number": "HB3225",
+    "change_hash": "2350d488857421a38ecc84912681257f",
+    "state": "TX"
+  },
+  "1981369": {
+    "bill_number": "HF1434",
+    "change_hash": "750370c2c2c8bd1ea3385b06003d57b9",
+    "state": "MN"
+  },
+  "1982219": {
+    "bill_number": "AB1503",
+    "change_hash": "e2df0a315605006b7c3609e7caade540",
+    "state": "CA"
+  },
+  "1983068": {
+    "bill_number": "A06030",
+    "change_hash": "6d03559be1a3f5c0fdfeb8678c41f129",
+    "state": "NY"
+  },
+  "1983652": {
+    "bill_number": "HB3351",
+    "change_hash": "beb5aa7c3c5185c51f241cd72ce24d21",
+    "state": "TX"
+  },
+  "1983937": {
+    "bill_number": "SB1646",
+    "change_hash": "70814318ca99270aed9068e7b3841b72",
+    "state": "TX"
+  },
+  "1984007": {
+    "bill_number": "HF1615",
+    "change_hash": "d0d99ea44ed5427bf161921de79c4fb3",
+    "state": "MN"
+  },
+  "1988667": {
+    "bill_number": "HB3552",
+    "change_hash": "062a17cd9eaa07eb65f6d6204d05c796",
+    "state": "TX"
+  },
+  "1988973": {
+    "bill_number": "S05771",
+    "change_hash": "457dd7c6875d813fb1723d3ec4b55fb5",
+    "state": "NY"
+  },
+  "1989096": {
+    "bill_number": "SF2105",
+    "change_hash": "fe7a915bd625b98a905af9431c3e4f83",
+    "state": "MN"
+  },
+  "1989612": {
+    "bill_number": "HF1810",
+    "change_hash": "c088d88dbd84dc69549b49c01afb72ab",
+    "state": "MN"
+  },
+  "1989727": {
+    "bill_number": "HF1814",
+    "change_hash": "fca091d2e90f8fdb92686f9800ec3328",
+    "state": "MN"
+  },
+  "1990086": {
+    "bill_number": "HF1812",
+    "change_hash": "2c444ca1ba19d35e1c7ccc0dda7823ef",
+    "state": "MN"
+  },
+  "1990287": {
+    "bill_number": "HB33",
+    "change_hash": "3d1411da61d848a133cd549ff1810bd5",
+    "state": "TX"
+  },
+  "1992185": {
+    "bill_number": "SF2172",
+    "change_hash": "efa9567fbe5790122c02564df02bebdc",
+    "state": "MN"
+  },
+  "1992227": {
+    "bill_number": "HF1875",
+    "change_hash": "930c521d5f9169ad1cbc81548a6fba06",
+    "state": "MN"
+  },
+  "1992707": {
+    "bill_number": "HB3862",
+    "change_hash": "d59243aa1a5bc90909fd1ba27cc4fda2",
+    "state": "TX"
+  },
+  "1992712": {
+    "bill_number": "A06540",
+    "change_hash": "acee367eda56041051e106e57916b3fc",
+    "state": "NY"
+  },
+  "1992725": {
+    "bill_number": "SB1964",
+    "change_hash": "e9b94454151a4af1411f248f36485069",
+    "state": "TX"
+  },
+  "1992731": {
+    "bill_number": "S06158",
+    "change_hash": "3dfe2e826d21eaeec24b501db27330b3",
+    "state": "NY"
+  },
+  "1992923": {
+    "bill_number": "SB1962",
+    "change_hash": "ce9459f18b3fe5a90fdde271f21d70f7",
+    "state": "TX"
+  },
+  "1993550": {
+    "bill_number": "A06601",
+    "change_hash": "8e168937741bbd3de900a10424a560f0",
+    "state": "NY"
+  },
+  "1993605": {
+    "bill_number": "A06569",
+    "change_hash": "3dc522bfb492a41884d7e99b6a320b8e",
+    "state": "NY"
+  },
+  "1993737": {
+    "bill_number": "HB13",
+    "change_hash": "bcf081eba529c64f73be60aa55bbb27e",
+    "state": "TX"
+  },
+  "1994018": {
+    "bill_number": "A06549",
+    "change_hash": "1203c0a15b0264103ab8ce3d15578f47",
+    "state": "NY"
+  },
+  "1994930": {
+    "bill_number": "SF2308",
+    "change_hash": "74b14d5d959587c04f9a3d75987f8b2c",
+    "state": "MN"
+  },
+  "1994963": {
+    "bill_number": "SF2370",
+    "change_hash": "77a6b54b3f9bd09e313c08ccdc97329a",
+    "state": "MN"
+  },
+  "1995324": {
+    "bill_number": "SB2101",
+    "change_hash": "7499f5eba22c603ca332b1ff68c343a6",
+    "state": "TX"
+  },
+  "1996206": {
+    "bill_number": "HF2115",
+    "change_hash": "2c633542573f8e9f7c880d8622fe8b30",
+    "state": "MN"
+  },
+  "1996709": {
+    "bill_number": "HB4242",
+    "change_hash": "96f44aea5fe45e4ffd2a9e89acbf694a",
+    "state": "TX"
+  },
+  "1999456": {
+    "bill_number": "HB4294",
+    "change_hash": "117d385baea3a35f03c29819bcc92723",
+    "state": "TX"
+  },
+  "1999658": {
+    "bill_number": "HB4362",
+    "change_hash": "a90e9ed6bc1cd61416b4f28cb2e0dbd0",
+    "state": "TX"
+  },
+  "2000164": {
+    "bill_number": "HB4456",
+    "change_hash": "4b67a23f59ef8b4f6d1f6e5448b3c9df",
+    "state": "TX"
+  },
+  "2000178": {
+    "bill_number": "HB4437",
+    "change_hash": "6dfce22f52aaa6503dd68ff321360970",
+    "state": "TX"
+  },
+  "2003114": {
+    "bill_number": "HB4510",
+    "change_hash": "92ef497b7565cf0e130696a2b5c2bef3",
+    "state": "TX"
+  },
+  "2004724": {
+    "bill_number": "SF2418",
+    "change_hash": "792506ab01df68d2565e0bdc44a24868",
+    "state": "MN"
+  },
+  "2005231": {
+    "bill_number": "SF2438",
+    "change_hash": "e73168833978571e0f6f3af10ab6c4ff",
+    "state": "MN"
+  },
+  "2005366": {
+    "bill_number": "SF2443",
+    "change_hash": "4d40e059bade386cdc627d263a0d6565",
+    "state": "MN"
+  },
+  "2005437": {
+    "bill_number": "HF2187",
+    "change_hash": "8b7eea61327fe0b5e6f7a557e5ffcd1e",
+    "state": "MN"
+  },
+  "2005789": {
+    "bill_number": "SB2420",
+    "change_hash": "0ba50ede200577d66cb81fe14c79ebfa",
+    "state": "TX"
+  },
+  "2006078": {
+    "bill_number": "SB7",
+    "change_hash": "92cf1c85e412afd0eb2e7140d55ceed7",
+    "state": "TX"
+  },
+  "2006196": {
+    "bill_number": "HB4901",
+    "change_hash": "b74d2e48b5717ee3785a5197fb17b2f3",
+    "state": "TX"
+  },
+  "2006342": {
+    "bill_number": "HB121",
+    "change_hash": "6b21cffdabcef921f1e46b0062b86b05",
+    "state": "TX"
+  },
+  "2006381": {
+    "bill_number": "HB4976",
+    "change_hash": "cdb6d9a73889eb42066cf47b5619674d",
+    "state": "TX"
+  },
+  "2006453": {
+    "bill_number": "SB2512",
+    "change_hash": "cf79c2a37b1172284ce2e4d00c6a6517",
+    "state": "TX"
+  },
+  "2006627": {
+    "bill_number": "HB5098",
+    "change_hash": "41f3697a0aad93ddd3c503ffdb051660",
+    "state": "TX"
+  },
+  "2007109": {
+    "bill_number": "HB149",
+    "change_hash": "4dda38db5976b55b9ea9596d75a9f7d4",
+    "state": "TX"
+  },
+  "2007918": {
+    "bill_number": "HB5495",
+    "change_hash": "06d81ba29f1cfcc43fa8a9a4dcbfb000",
+    "state": "TX"
+  },
+  "2008027": {
+    "bill_number": "SB2862",
+    "change_hash": "8068aa10bd926460c9fef06353f4e8e6",
+    "state": "TX"
+  },
+  "2008164": {
+    "bill_number": "SF2614",
+    "change_hash": "821dcacf9897546987ba71fb0ac6211d",
+    "state": "MN"
+  },
+  "2008330": {
+    "bill_number": "SB3003",
+    "change_hash": "be77a77a288b9eabc68584a4adfbb40e",
+    "state": "TX"
+  },
+  "2008407": {
+    "bill_number": "HB5643",
+    "change_hash": "154cba58c99a577cc9f8bbe08985cfb8",
+    "state": "TX"
+  },
+  "2008470": {
+    "bill_number": "SB34",
+    "change_hash": "67ccbb271d02cd89d7c2378b00398a5d",
+    "state": "TX"
+  },
+  "2008496": {
+    "bill_number": "SB2999",
+    "change_hash": "790498053e30a2a6b3bcd3a82da945da",
+    "state": "TX"
+  },
+  "2008511": {
+    "bill_number": "HB5537",
+    "change_hash": "4d14c2ce2d10b46c64844fd63d237972",
+    "state": "TX"
+  },
+  "2008956": {
+    "bill_number": "HF2436",
+    "change_hash": "c30fb65cedeaec7822eab6b6537d3a9f",
+    "state": "MN"
+  },
+  "2009016": {
+    "bill_number": "HF2435",
+    "change_hash": "a53e258eb7b01d8056890079b14378f8",
+    "state": "MN"
+  },
+  "2009071": {
+    "bill_number": "HF2432",
+    "change_hash": "fae37aa2cee8cddac0fa945377f763b3",
+    "state": "MN"
+  },
+  "2015645": {
+    "bill_number": "S06954",
+    "change_hash": "5936d2b09fd4ed9f5517794b7cc97ad0",
+    "state": "NY"
+  },
+  "2017176": {
+    "bill_number": "SF3149",
+    "change_hash": "f3941076da3cea06c25e7b7d31e15ae0",
+    "state": "MN"
+  },
+  "2017978": {
+    "bill_number": "HF2955",
+    "change_hash": "23bad2f78716015aff0dc56e68bbde96",
+    "state": "MN"
+  },
+  "2020678": {
+    "bill_number": "SF3306",
+    "change_hash": "587c6938b17906b878819aa55eb06ab3",
+    "state": "MN"
+  },
+  "2020749": {
+    "bill_number": "SF3295",
+    "change_hash": "174b80b105edd2addc988218edb696d3",
+    "state": "MN"
+  },
+  "2024419": {
+    "bill_number": "A07981",
+    "change_hash": "c89671908b2a4d9a63b167cb34a2d093",
+    "state": "NY"
+  },
+  "2025758": {
+    "bill_number": "A08022",
+    "change_hash": "3f5c4223bc48fe39e33455d5deb9ed5c",
+    "state": "NY"
+  },
+  "2025981": {
+    "bill_number": "HF3230",
+    "change_hash": "af7cae4c66bde00da964d72493c34307",
+    "state": "MN"
+  },
+  "2026174": {
+    "bill_number": "SF3432",
+    "change_hash": "a1f74df29ffdda03b31f81c0178c4264",
+    "state": "MN"
+  },
+  "2030369": {
+    "bill_number": "SB3070",
+    "change_hash": "425f5329848c58b0b5d1f97679386320",
+    "state": "TX"
+  },
+  "2030926": {
+    "bill_number": "A08405",
+    "change_hash": "f30c61cbc6490fc0f6c7dd3f07a84b72",
+    "state": "NY"
+  },
+  "2031449": {
+    "bill_number": "S07963",
+    "change_hash": "b80dcb065d76702b170b2d785add192a",
+    "state": "NY"
+  },
+  "2032681": {
+    "bill_number": "A08523",
+    "change_hash": "c8b9fdcbb80a4245ef9048e0f9417ff3",
+    "state": "NY"
+  },
+  "2032931": {
+    "bill_number": "S08203",
+    "change_hash": "2bdcf09ed06de6f9b6f5de40609e3fe6",
+    "state": "NY"
+  },
+  "2033069": {
+    "bill_number": "S08217",
+    "change_hash": "1774ec488544074eddaa51ff59861082",
+    "state": "NY"
+  },
+  "2033660": {
+    "bill_number": "A08664",
+    "change_hash": "959860274485a49f19fa0b8b23ad2781",
+    "state": "NY"
+  },
+  "2035763": {
+    "bill_number": "S08364",
+    "change_hash": "c47de578158cfec483c0704699f4e502",
+    "state": "NY"
+  },
+  "2036368": {
+    "bill_number": "A08849",
+    "change_hash": "ca7ffb7d1b5e91d3b482c9e863c61b6a",
+    "state": "NY"
+  },
+  "2041682": {
+    "bill_number": "A08963",
+    "change_hash": "890c8169c2c85e0c2cd0e1b73927fac2",
+    "state": "NY"
+  },
+  "2041749": {
+    "bill_number": "A08991",
+    "change_hash": "b683c695742d381d34bc3d2afe8373c7",
+    "state": "NY"
+  },
+  "2051831": {
+    "bill_number": "H0377",
+    "change_hash": "cc85f86f53e3036dc1e3972ff944e11a",
+    "state": "FL"
+  },
+  "2053235": {
+    "bill_number": "S0586",
+    "change_hash": "786f95642cf759aba8f5eb3adbd11614",
+    "state": "FL"
+  },
+  "2054052": {
+    "bill_number": "H0543",
+    "change_hash": "01a81d4d911101890848eb409aebb974",
+    "state": "FL"
+  },
+  "2056254": {
+    "bill_number": "S08598",
+    "change_hash": "c66c6d6212b1d44968e94a850bb60145",
+    "state": "NY"
+  },
+  "2056409": {
+    "bill_number": "S0740",
+    "change_hash": "38f37ee48318605f35c1d01fb72da162",
+    "state": "FL"
+  },
+  "2056625": {
+    "bill_number": "S0754",
+    "change_hash": "74a0a723d4baf3b534bc6dfb24d38d9a",
+    "state": "FL"
+  },
+  "2056706": {
+    "bill_number": "H0659",
+    "change_hash": "4fdd96cddc37112462ccaa289685f3ab",
+    "state": "FL"
+  },
+  "2057511": {
+    "bill_number": "S0806",
+    "change_hash": "453e20d092688c392630692482b8a1d1",
+    "state": "FL"
+  },
+  "2057719": {
+    "bill_number": "S0832",
+    "change_hash": "1ec933d5856645b72f8f1715675b20fc",
+    "state": "FL"
+  },
+  "2058893": {
+    "bill_number": "H0767",
+    "change_hash": "283305e6618f4e54b41af0eac8f433ff",
+    "state": "FL"
+  },
+  "2059165": {
+    "bill_number": "H0783",
+    "change_hash": "f62df1afb76af8180ebf84b759cd5aef",
+    "state": "FL"
+  },
+  "2060572": {
+    "bill_number": "A09415",
+    "change_hash": "0d8cd3d842c7823cea169a1bf27965da",
+    "state": "NY"
+  },
+  "2060739": {
+    "bill_number": "SB0038",
+    "change_hash": "3d756fc8cec10108c9e1310d45283551",
+    "state": "UT"
+  },
+  "2061182": {
+    "bill_number": "SB0051",
+    "change_hash": "ce34ee2ee2ab1fbb40f1b18d89f2dbe3",
+    "state": "UT"
+  },
+  "2065244": {
+    "bill_number": "S1080",
+    "change_hash": "ff86ef21904a217d50ff9b3b280da731",
+    "state": "FL"
+  },
+  "2065310": {
+    "bill_number": "SB0073",
+    "change_hash": "0dcab139284888552e98337a9509cf1b",
+    "state": "UT"
+  },
+  "2065579": {
+    "bill_number": "S1126",
+    "change_hash": "98b6f2a27152b107d0f382349ca53ac0",
+    "state": "FL"
+  },
+  "2065686": {
+    "bill_number": "AB1540",
+    "change_hash": "b9c1d4576e02072fb45733afc63f294d",
+    "state": "CA"
+  },
+  "2066020": {
+    "bill_number": "HB0149",
+    "change_hash": "9394793c7d12c0b8d2de1e1a984469ee",
+    "state": "UT"
+  },
+  "2066390": {
+    "bill_number": "S1274",
+    "change_hash": "4ff8c038920782e96aa12f0bea41597d",
+    "state": "FL"
+  },
+  "2066586": {
+    "bill_number": "S1292",
+    "change_hash": "06f3de16b247e51d49744421ca33579b",
+    "state": "FL"
+  },
+  "2066666": {
+    "bill_number": "S1310",
+    "change_hash": "ec144a715562ae664f3f838f7372d47e",
+    "state": "FL"
+  },
+  "2067147": {
+    "bill_number": "S1344",
+    "change_hash": "a941f54379daf49959bb2d78678dbfbf",
+    "state": "FL"
+  },
+  "2068155": {
+    "bill_number": "H1189",
+    "change_hash": "cf0f6a0ede009ccf8b7b302eb580db7c",
+    "state": "FL"
+  },
+  "2068163": {
+    "bill_number": "H1197",
+    "change_hash": "0ec4c2520640c04f05f548b3d6337aca",
+    "state": "FL"
+  },
+  "2068235": {
+    "bill_number": "H1255",
+    "change_hash": "71df877446e7eeef69b68e8fb838e7ee",
+    "state": "FL"
+  },
+  "2068258": {
+    "bill_number": "H1205",
+    "change_hash": "96745607f14e961cda49c1491f7df6f7",
+    "state": "FL"
+  },
+  "2068323": {
+    "bill_number": "H1199",
+    "change_hash": "43f9bdf5e5121189797de0079abf9c8d",
+    "state": "FL"
+  },
+  "2068781": {
+    "bill_number": "S1450",
+    "change_hash": "a6526de41a7c9c3d3700ebb4cc304f0b",
+    "state": "FL"
+  },
+  "2068870": {
+    "bill_number": "S1486",
+    "change_hash": "ea0673065e71195b9f6911bb3cf88387",
+    "state": "FL"
+  },
+  "2069010": {
+    "bill_number": "H1323",
+    "change_hash": "47e59b16e628f8b97360e3bb54c750a2",
+    "state": "FL"
+  },
+  "2069338": {
+    "bill_number": "H1345",
+    "change_hash": "5ecdb275bd7eefca03b3c5f5d085411d",
+    "state": "FL"
+  },
+  "2069353": {
+    "bill_number": "S08850",
+    "change_hash": "f25e2cc9bcb6a05f7c5a56016073edd4",
+    "state": "NY"
+  },
+  "2069358": {
+    "bill_number": "S1582",
+    "change_hash": "bc688b9ffd95daffb8ed0ad06c763462",
+    "state": "FL"
+  },
+  "2069485": {
+    "bill_number": "S1586",
+    "change_hash": "259572b256f84fc0b7866ecb0a0932e5",
+    "state": "FL"
+  },
+  "2069563": {
+    "bill_number": "S1662",
+    "change_hash": "316a4afbd8ea0ac7a283caaa1d8cc23e",
+    "state": "FL"
+  },
+  "2069683": {
+    "bill_number": "H1435",
+    "change_hash": "e834f8aab20fb5d5b3c9bc7a01468308",
+    "state": "FL"
+  },
+  "2069756": {
+    "bill_number": "H1427",
+    "change_hash": "8341119bfaf8e386f4cb29cbd73f54d5",
+    "state": "FL"
+  },
+  "2069760": {
+    "bill_number": "S1618",
+    "change_hash": "06b6cadf8aa926cdddf0dfeba80782be",
+    "state": "FL"
+  },
+  "2069934": {
+    "bill_number": "S1722",
+    "change_hash": "b821043aa00a4cd717836bc84b608711",
+    "state": "FL"
+  },
+  "2070058": {
+    "bill_number": "H1489",
+    "change_hash": "0adbd08e6488faf126ce27de5766fa3d",
+    "state": "FL"
+  },
+  "2070146": {
+    "bill_number": "AB1563",
+    "change_hash": "e2917467aa7ce680f10579577401075c",
+    "state": "CA"
+  },
+  "2070147": {
+    "bill_number": "SB879",
+    "change_hash": "876550389b8606957eed579da3317314",
+    "state": "CA"
+  },
+  "2071921": {
+    "bill_number": "S0480",
+    "change_hash": "e41bf5cc0d487bcc8883bc3aebdac406",
+    "state": "FL"
+  },
+  "2072053": {
+    "bill_number": "AB1575",
+    "change_hash": "1f111de098b5f25a7e861013d83b8ccd",
+    "state": "CA"
+  },
+  "2079081": {
+    "bill_number": "A09543",
+    "change_hash": "a8429e6571317916fa3ac85d23074e93",
+    "state": "NY"
+  },
+  "2084314": {
+    "bill_number": "HB0276",
+    "change_hash": "0149ea5dda06dc8046c8652425d3326a",
+    "state": "UT"
+  },
+  "2087619": {
+    "bill_number": "SB898",
+    "change_hash": "8fbb5c92378ead80dc1b24aba0ae6830",
+    "state": "CA"
+  },
+  "2088234": {
+    "bill_number": "A10008",
+    "change_hash": "7dcce38d33a5323d75519074aab03bdd",
+    "state": "NY"
+  },
+  "2088257": {
+    "bill_number": "A10003",
+    "change_hash": "cb529b547a11c0de58091f702b037e58",
+    "state": "NY"
+  },
+  "2088360": {
+    "bill_number": "S09004",
+    "change_hash": "4f7908f1ff274a683cfb9d0c9bd7f42c",
+    "state": "NY"
+  },
+  "2088371": {
+    "bill_number": "S09000",
+    "change_hash": "9ff59a32aa694bb163b78b20eeb020a0",
+    "state": "NY"
+  },
+  "2088515": {
+    "bill_number": "S09008",
+    "change_hash": "a46f0dc6eb40cb57091b0fbf9d90f8cc",
+    "state": "NY"
+  },
+  "2088651": {
+    "bill_number": "A10000",
+    "change_hash": "263bf4064e955c9be38d1d2cf0e33651",
+    "state": "NY"
+  },
+  "2088710": {
+    "bill_number": "S09003",
+    "change_hash": "b5dd3f17c637f12ddd6b2a6508daf187",
+    "state": "NY"
+  },
+  "2088815": {
+    "bill_number": "A10004",
+    "change_hash": "3322e1a85fb0b48a7dfd87d5f20394a6",
+    "state": "NY"
+  },
+  "2089035": {
+    "bill_number": "A09625",
+    "change_hash": "3e612090221fff18de29999d6991d364",
+    "state": "NY"
+  },
+  "2089792": {
+    "bill_number": "HB0319",
+    "change_hash": "4526560fe0405d0c4eebe4b2954a3801",
+    "state": "UT"
+  },
+  "2094642": {
+    "bill_number": "HB0399",
+    "change_hash": "45a15afd695c4dccdb37ef45a52d77ae",
+    "state": "UT"
+  },
+  "2094994": {
+    "bill_number": "SB0206",
+    "change_hash": "1c7e425ef75c529f77701f214982b8e1",
+    "state": "UT"
+  },
+  "2095584": {
+    "bill_number": "HB0408",
+    "change_hash": "9d4a0de5a8f635e350f8c06096d163c0",
+    "state": "UT"
+  },
+  "2095693": {
+    "bill_number": "HB0407",
+    "change_hash": "20e22ed35eb37537d3f446e0ebd345c0",
+    "state": "UT"
+  },
+  "2102915": {
+    "bill_number": "A10100",
+    "change_hash": "9481ff2be96825ee9595caa36bb00ac1",
+    "state": "NY"
+  },
+  "2102948": {
+    "bill_number": "A10067",
+    "change_hash": "1bf16e1c8c1a83b9ffdcce7a0baa1542",
+    "state": "NY"
+  },
+  "2103081": {
+    "bill_number": "HB0447",
+    "change_hash": "49b7c56d270861598bfe1f7c9bb7b600",
+    "state": "UT"
+  },
+  "2103724": {
+    "bill_number": "A10111",
+    "change_hash": "f39c99edae90f450daa98329ede50f26",
+    "state": "NY"
+  },
+  "2106845": {
+    "bill_number": "AB1700",
+    "change_hash": "b022e3706095bb23aaffddae80a90d4c",
+    "state": "CA"
+  },
+  "2108283": {
+    "bill_number": "AB1709",
+    "change_hash": "0f949b618f34b1621561a6c22d272450",
+    "state": "CA"
+  },
+  "2108521": {
+    "bill_number": "HB0498",
+    "change_hash": "ded2d2bdab65138a71b3abd908011343",
+    "state": "UT"
+  },
+  "2108683": {
+    "bill_number": "SB0257",
+    "change_hash": "53a011f0ccfc24772decd751ded93745",
+    "state": "UT"
+  },
+  "2108948": {
+    "bill_number": "HB0504",
+    "change_hash": "57db8b8f121fca60c302063ca1ab237f",
+    "state": "UT"
+  },
+  "2111318": {
+    "bill_number": "HB1157",
+    "change_hash": "87809bac1caaa77050886561cf096d6b",
+    "state": "CO"
+  },
+  "2111876": {
+    "bill_number": "SB0275",
+    "change_hash": "766c81de19b26837dc49248180763595",
+    "state": "UT"
+  },
+  "2112395": {
+    "bill_number": "SB1000",
+    "change_hash": "7c65fc001885a992f2d1796fbaf7eace",
+    "state": "CA"
+  },
+  "2112396": {
+    "bill_number": "SB1001",
+    "change_hash": "43c3e07106d493aa37c4525f9c392143",
+    "state": "CA"
+  },
+  "2113852": {
+    "bill_number": "SB090",
+    "change_hash": "ae304cbcc7377737bbb0e9a7180d96b8",
+    "state": "CO"
+  },
+  "2114724": {
+    "bill_number": "AB1856",
+    "change_hash": "90ea4884dc88475a69b6bf73f62e6c4f",
+    "state": "CA"
+  },
+  "2114993": {
+    "bill_number": "HB0552",
+    "change_hash": "f77e8d00274a9c804f0cce3910ce1b83",
+    "state": "UT"
+  },
+  "2116923": {
+    "bill_number": "S2502",
+    "change_hash": "5ae318a07ccffbb66122760a43822ebd",
+    "state": "FL"
+  },
+  "2116941": {
+    "bill_number": "SB0294",
+    "change_hash": "6aed91cfc58d44ddc0c62abc9768398e",
+    "state": "UT"
+  },
+  "2117014": {
+    "bill_number": "S2500",
+    "change_hash": "e1b1a6e2bc6f31820520bbf88ffbacca",
+    "state": "FL"
+  },
+  "2117161": {
+    "bill_number": "SB1074",
+    "change_hash": "033eb4742bdffc92db90c59179221fcb",
+    "state": "CA"
+  },
+  "2117181": {
+    "bill_number": "SB1094",
+    "change_hash": "feb6f4a3aca487ea79c33a1ab4003bf7",
+    "state": "CA"
+  },
+  "2117499": {
+    "bill_number": "HB0572",
+    "change_hash": "f6b4793c88f7774fb5605840931fa81c",
+    "state": "UT"
+  },
+  "2117647": {
+    "bill_number": "H5003",
+    "change_hash": "fd87f1ad264873cc203aad1114e19acc",
+    "state": "FL"
+  },
+  "2117701": {
+    "bill_number": "H5001",
+    "change_hash": "4c15ae3e5ab362ce3f96cce8fd8539a2",
+    "state": "FL"
+  },
+  "2118694": {
+    "bill_number": "SB1136",
+    "change_hash": "c60ebfe2abb72bd0365253f450fe66f8",
+    "state": "CA"
+  },
+  "2119603": {
+    "bill_number": "AB2076",
+    "change_hash": "1ecf48a7abc1f6cea37227a171250df1",
+    "state": "CA"
+  },
+  "2119620": {
+    "bill_number": "AB2093",
+    "change_hash": "c071ee2acc9d37fe51690b5d60490c50",
+    "state": "CA"
+  },
+  "2119630": {
+    "bill_number": "AB2103",
+    "change_hash": "cc032a260dbcb9ccd52462ee21f39a70",
+    "state": "CA"
+  },
+  "2119696": {
+    "bill_number": "AB2169",
+    "change_hash": "270c0e637805b552fef8eb9a8ee0bf55",
+    "state": "CA"
+  },
+  "2119878": {
+    "bill_number": "HB1238",
+    "change_hash": "c706d68fde00792b0b563c864fcde775",
+    "state": "CO"
+  },
+  "2119930": {
+    "bill_number": "HB1252",
+    "change_hash": "00590e024f32015ac51728120c2f5bbf",
+    "state": "CO"
+  },
+  "2120649": {
+    "bill_number": "AB2175",
+    "change_hash": "81296d1e9415a9909466261e4f6ba4af",
+    "state": "CA"
+  },
+  "2120699": {
+    "bill_number": "AB2225",
+    "change_hash": "5736555ad6a1aa12735522762ff5f9f1",
+    "state": "CA"
+  },
+  "2120720": {
+    "bill_number": "AB2246",
+    "change_hash": "cb325fcf46fc2629e55a8e4773c400a2",
+    "state": "CA"
+  },
+  "2120832": {
+    "bill_number": "AB2358",
+    "change_hash": "70b46b04e989f715cf4a42353daafb57",
+    "state": "CA"
+  },
+  "2120844": {
+    "bill_number": "AB2370",
+    "change_hash": "a994b0e6cba58b0f64837704427dc4d8",
+    "state": "CA"
+  },
+  "2121315": {
+    "bill_number": "A10287",
+    "change_hash": "04466fe61d8354482107c9e8e2a8b04c",
+    "state": "NY"
+  },
+  "2121535": {
+    "bill_number": "AB2458",
+    "change_hash": "1c814f8f30a74aee986ad226243d0370",
+    "state": "CA"
+  },
+  "2121551": {
+    "bill_number": "AB2474",
+    "change_hash": "84747af2b356825910e302ebd4a66131",
+    "state": "CA"
+  },
+  "2121576": {
+    "bill_number": "AB2499",
+    "change_hash": "0905e4c20bff61149f7dcb7b5272fdf4",
+    "state": "CA"
+  },
+  "2121638": {
+    "bill_number": "AB2561",
+    "change_hash": "60661086eca4f71f22dd505bfcbbd5bd",
+    "state": "CA"
+  },
+  "2121799": {
+    "bill_number": "AB2722",
+    "change_hash": "01c30bb3d18687bc68f4813ff1b24a75",
+    "state": "CA"
+  },
+  "2121908": {
+    "bill_number": "SB1324",
+    "change_hash": "9559912208ad9a2fc173f7536f9ebc1d",
+    "state": "CA"
+  },
+  "2122506": {
+    "bill_number": "SB0323",
+    "change_hash": "a079d127d9722a46f6f239e1105ad714",
+    "state": "UT"
+  },
+  "2127660": {
+    "bill_number": "HF3858",
+    "change_hash": "f4245427d711fc67a079dc419ce42e01",
+    "state": "MN"
+  },
+  "2128084": {
+    "bill_number": "S09346",
+    "change_hash": "312a3a4237b00214dc640b4904001d04",
+    "state": "NY"
+  },
+  "2128121": {
+    "bill_number": "SF4100",
+    "change_hash": "09769c8f4862b5a4b21d69039bf8642c",
+    "state": "MN"
+  },
+  "2128143": {
+    "bill_number": "SF4091",
+    "change_hash": "d358487f0643ed1e100fdcadb493f674",
+    "state": "MN"
+  },
+  "2128165": {
+    "bill_number": "SF4105",
+    "change_hash": "63223f8b0e907c717529d7a94f8c28a6",
+    "state": "MN"
+  },
+  "2128302": {
+    "bill_number": "A10383",
+    "change_hash": "ce411d5401df13d43d4a10d7d4bfa5c4",
+    "state": "NY"
+  },
+  "2130155": {
+    "bill_number": "SB1433",
+    "change_hash": "e692f310674be2dd24b2cefd63150f73",
+    "state": "CA"
+  },
+  "2130617": {
+    "bill_number": "SF4259",
+    "change_hash": "2dd5be23b0e268bb85492844ef4b7a8a",
+    "state": "MN"
+  },
+  "2130629": {
+    "bill_number": "SF4258",
+    "change_hash": "1eb625891c3041c5b5b883db933996f9",
+    "state": "MN"
+  },
+  "2130659": {
+    "bill_number": "HB0003",
+    "change_hash": "cd806a0b296d74c91dd4a553d4a296f9",
+    "state": "UT"
+  },
+  "2130976": {
+    "bill_number": "HF4138",
+    "change_hash": "0267f820413148cf5c639751d0edeaca",
+    "state": "MN"
+  },
+  "2131559": {
+    "bill_number": "S09401",
+    "change_hash": "566a024b86b773603b2045cafee92100",
+    "state": "NY"
+  },
+  "2132465": {
+    "bill_number": "SF4401",
+    "change_hash": "205341ca0f699548161ac73a459a4d2a",
+    "state": "MN"
+  },
+  "2132476": {
+    "bill_number": "SF4400",
+    "change_hash": "c31a1f2aec0ed13774175b9fd317eb29",
+    "state": "MN"
+  },
+  "2132492": {
+    "bill_number": "SF4403",
+    "change_hash": "deffc26d7ac4900d273596f2bba4e293",
+    "state": "MN"
+  },
+  "2132873": {
+    "bill_number": "HF4199",
+    "change_hash": "c4c0d8a1df81b2bdd0650bbc626f6b71",
+    "state": "MN"
+  },
+  "2132931": {
+    "bill_number": "HF4202",
+    "change_hash": "f03af76d4f0e43e5a722130b9a6a7d4b",
+    "state": "MN"
+  },
+  "2133069": {
+    "bill_number": "HF4190",
+    "change_hash": "60adcd528ed1b7ebcac36bf9f1d5b13c",
+    "state": "MN"
+  },
+  "2133789": {
+    "bill_number": "A10640",
+    "change_hash": "2f7805e93d86d47826d6f551fb7f3aea",
+    "state": "NY"
+  },
+  "2133845": {
+    "bill_number": "SF4519",
+    "change_hash": "ff4ebeb5f9dbd98cb8f74b7f9fecddc4",
+    "state": "MN"
+  },
+  "2133975": {
+    "bill_number": "SF4476",
+    "change_hash": "63742a89badaca79d7556c28c0250eec",
+    "state": "MN"
+  },
+  "2135034": {
+    "bill_number": "S09483",
+    "change_hash": "ff477fb0c2f7eadc9e669e0a6f76b85c",
+    "state": "NY"
+  },
+  "2135286": {
+    "bill_number": "SF4574",
+    "change_hash": "abb516972c5d7caaed5af9de0c1ee15b",
+    "state": "MN"
+  },
+  "2135698": {
+    "bill_number": "HF4438",
+    "change_hash": "a821149bed10249b591580a880af58a7",
+    "state": "MN"
+  },
+  "2136726": {
+    "bill_number": "SF4696",
+    "change_hash": "d48e9f0b02a86eec2f6453481ee5b83f",
+    "state": "MN"
+  },
+  "2136894": {
+    "bill_number": "HF4511",
+    "change_hash": "296f2b6aecca8f554f9e28020e525500",
+    "state": "MN"
+  },
+  "2137040": {
+    "bill_number": "SF4760",
+    "change_hash": "73227993a3aab50d36d62b9702a7b784",
+    "state": "MN"
+  },
+  "2137724": {
+    "bill_number": "SF4772",
+    "change_hash": "6186ed1fe3579fd0d78a0d81a8f26a34",
+    "state": "MN"
+  },
+  "2139119": {
+    "bill_number": "A10727",
+    "change_hash": "85d9ad3560090b942e5781dc9fce2173",
+    "state": "NY"
+  },
+  "2140859": {
+    "bill_number": "S09740",
+    "change_hash": "7c2b31e5d31287b67eaea0a7f6a5c202",
+    "state": "NY"
+  },
+  "2141160": {
+    "bill_number": "A10841",
+    "change_hash": "30911f0d4ac59394182882fce550c315",
+    "state": "NY"
+  },
+  "2141267": {
+    "bill_number": "SF4990",
+    "change_hash": "e4a26bf7f0b51fba2861b2e10255fbc3",
+    "state": "MN"
+  },
+  "2141344": {
+    "bill_number": "HCR1002",
+    "change_hash": "0bd432e1ea8bc533b0c31a4859300ead",
+    "state": "CO"
+  },
+  "2141488": {
+    "bill_number": "HF4808",
+    "change_hash": "99fbeb0aabc0c6c62dec77ef18b4ca0e",
+    "state": "MN"
+  },
+  "2141507": {
+    "bill_number": "HF4835",
+    "change_hash": "e85ff9b706eb34d631d791efeb873c11",
+    "state": "MN"
+  },
+  "2141541": {
+    "bill_number": "HF4810",
+    "change_hash": "1930383780f2df5faab96459428edf4c",
+    "state": "MN"
+  },
+  "2141786": {
+    "bill_number": "SF5042",
+    "change_hash": "872f853baf57f35809c318b3109c0ad8",
+    "state": "MN"
+  },
+  "2141799": {
+    "bill_number": "SF5019",
+    "change_hash": "02963b5277c13403be3103d72cfcf0d4",
+    "state": "MN"
+  },
+  "2142155": {
+    "bill_number": "HF4902",
+    "change_hash": "204fdf4fb0c6531abe93c426678c892c",
+    "state": "MN"
+  },
+  "2142343": {
+    "bill_number": "SF5090",
+    "change_hash": "eb7c012fc1afac115ea62c32b61b05b6",
+    "state": "MN"
+  },
+  "2142583": {
+    "bill_number": "HF4969",
+    "change_hash": "a64e21fcaafaab1f544888218aa24839",
+    "state": "MN"
+  },
+  "2142943": {
+    "bill_number": "A10969",
+    "change_hash": "e70096efdbf1e62bc734767581144bcc",
+    "state": "NY"
+  },
+  "2143602": {
+    "bill_number": "HF5005",
+    "change_hash": "eec8c2365338169a66298903dfdd4f05",
+    "state": "MN"
+  },
+  "2144001": {
+    "bill_number": "SF5178",
+    "change_hash": "4c496c0e5e02a1a302c9f99a2edeadff",
+    "state": "MN"
+  },
+  "2147334": {
+    "bill_number": "HB1429",
+    "change_hash": "12fd9ce794f958bedb3880908d1d859f",
+    "state": "CO"
+  },
+  "2148547": {
+    "bill_number": "S2502",
+    "change_hash": "ad9bc5f383a25ddd5df4493eb38b55a4",
+    "state": "FL"
+  },
+  "2148548": {
+    "bill_number": "S2500",
+    "change_hash": "506453349f2fbe5996adfa08ea9db906",
+    "state": "FL"
+  },
+  "2148556": {
+    "bill_number": "H5001",
+    "change_hash": "f636ef7ff6b8669d3b5d1ed2d0e476d4",
+    "state": "FL"
+  },
+  "2148561": {
+    "bill_number": "H5003",
+    "change_hash": "417481f926528b1e694c5fc532b1c654",
+    "state": "FL"
+  },
+  "2150330": {
+    "bill_number": "S10514",
+    "change_hash": "9024374fc99ea0abf9279bbdf41284f9",
+    "state": "NY"
+  },
+  "2150338": {
+    "bill_number": "S10477",
+    "change_hash": "168ad1f71103f99236663aa6fe546efd",
+    "state": "NY"
+  },
+  "2150379": {
+    "bill_number": "S10478",
+    "change_hash": "c7548a9ca6992e62eae3224b3ad79322",
+    "state": "NY"
+  }
+}
