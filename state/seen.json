@@ -1339,6 +1339,11 @@
     "change_hash": "60661086eca4f71f22dd505bfcbbd5bd",
     "state": "CA"
   },
+  "2121673": {
+    "bill_number": "AB2596",
+    "change_hash": "4956195f458f2036005434905c951974",
+    "state": "CA"
+  },
   "2121799": {
     "bill_number": "AB2722",
     "change_hash": "01c30bb3d18687bc68f4813ff1b24a75",
@@ -1386,7 +1391,7 @@
   },
   "2130155": {
     "bill_number": "SB1433",
-    "change_hash": "e692f310674be2dd24b2cefd63150f73",
+    "change_hash": "74e0f567c023075720ab3b12a19f97bf",
     "state": "CA"
   },
   "2130617": {
