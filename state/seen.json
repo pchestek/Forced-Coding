@@ -86,7 +86,7 @@
   },
   "1908096": {
     "bill_number": "AB111",
-    "change_hash": "7cbfb7db87de1f142be3440a417cb359",
+    "change_hash": "1db98565e62854e9e67245885057ea19",
     "state": "CA"
   },
   "1908108": {
@@ -96,22 +96,22 @@
   },
   "1908120": {
     "bill_number": "AB135",
-    "change_hash": "32800863c6cde89ab04a63746ef664d7",
+    "change_hash": "16ce2a7b738bdaf5093a9b3133908a61",
     "state": "CA"
   },
   "1908148": {
     "bill_number": "AB163",
-    "change_hash": "0709ee753c3013c23498f4745342a4d3",
+    "change_hash": "150d5344a0b2ed08fef86c6a4492c1f0",
     "state": "CA"
   },
   "1908149": {
     "bill_number": "AB164",
-    "change_hash": "cfa6477bd57f61344684856a02bd13b6",
+    "change_hash": "cc9e469ad118a5e51843bad15d8d9fa5",
     "state": "CA"
   },
   "1908157": {
     "bill_number": "AB172",
-    "change_hash": "065f6f192cb362c7bf63b45cf460e0bf",
+    "change_hash": "3d6325238ff16f3810bf90e3f318cfe9",
     "state": "CA"
   },
   "1908207": {
@@ -151,7 +151,7 @@
   },
   "1928283": {
     "bill_number": "SF334",
-    "change_hash": "3eb03193c3cdbeb75bfe2a644401064d",
+    "change_hash": "6078cea69edff2c145b68f2352135459",
     "state": "MN"
   },
   "1932675": {
@@ -231,7 +231,7 @@
   },
   "1939207": {
     "bill_number": "SB111",
-    "change_hash": "bf8959314faaeeafc53c485275a89e44",
+    "change_hash": "a6f154722e6f385e9a4474ad954addab",
     "state": "CA"
   },
   "1939220": {
@@ -241,22 +241,22 @@
   },
   "1939232": {
     "bill_number": "SB135",
-    "change_hash": "41731f34de6c46d3f68b93ea308369ac",
+    "change_hash": "03fddb343ad4d2e08e043cb01c1617c3",
     "state": "CA"
   },
   "1939261": {
     "bill_number": "SB163",
-    "change_hash": "91c54129c220a249b779be03ae175ace",
+    "change_hash": "bd082f159be0d2b71b0416c22086def1",
     "state": "CA"
   },
   "1939262": {
     "bill_number": "SB164",
-    "change_hash": "7238d68fa200e62ec288539fac27e21e",
+    "change_hash": "591f62efee437b7b78b5204af93a56ff",
     "state": "CA"
   },
   "1939270": {
     "bill_number": "SB172",
-    "change_hash": "d88375fc8f6c791933904835f7243d73",
+    "change_hash": "ef4b79b29c558bac5aa983054e8ed7b3",
     "state": "CA"
   },
   "1942100": {
@@ -476,7 +476,7 @@
   },
   "1980543": {
     "bill_number": "SB813",
-    "change_hash": "f59813d83a820fa116df71e6e19d1167",
+    "change_hash": "1db2acb87de9d95790ae43704af653bd",
     "state": "CA"
   },
   "1980799": {
@@ -616,7 +616,7 @@
   },
   "1994963": {
     "bill_number": "SF2370",
-    "change_hash": "77a6b54b3f9bd09e313c08ccdc97329a",
+    "change_hash": "fec594d496afbd1fcea3aae7111e8316",
     "state": "MN"
   },
   "1995324": {
@@ -961,7 +961,7 @@
   },
   "2065686": {
     "bill_number": "AB1540",
-    "change_hash": "5350f926d020ebbf95376fdefb6e805b",
+    "change_hash": "ba9522b9bf6a591b0d950e85655367d9",
     "state": "CA"
   },
   "2066020": {
@@ -1096,7 +1096,7 @@
   },
   "2072053": {
     "bill_number": "AB1575",
-    "change_hash": "1f111de098b5f25a7e861013d83b8ccd",
+    "change_hash": "b6617ed8e24163077d70082504293a50",
     "state": "CA"
   },
   "2079081": {
@@ -1111,7 +1111,7 @@
   },
   "2087619": {
     "bill_number": "SB898",
-    "change_hash": "afd2543d0e78d2571ccf6221b6c6f102",
+    "change_hash": "5e30f4e8d0ed421efc04c7a2fe51a308",
     "state": "CA"
   },
   "2088234": {
@@ -1176,7 +1176,7 @@
   },
   "2095318": {
     "bill_number": "SB913",
-    "change_hash": "e01b11d039f4e2c8261813052ea24a49",
+    "change_hash": "dd23f0a9a7254db1a38d80c1794e8cce",
     "state": "CA"
   },
   "2095584": {
@@ -1216,7 +1216,7 @@
   },
   "2108283": {
     "bill_number": "AB1709",
-    "change_hash": "59e26e77020aa53e9bba43ffb666f6be",
+    "change_hash": "ed72589d557ce491084e2941ec80e6c9",
     "state": "CA"
   },
   "2108521": {
@@ -1246,7 +1246,7 @@
   },
   "2112395": {
     "bill_number": "SB1000",
-    "change_hash": "7c65fc001885a992f2d1796fbaf7eace",
+    "change_hash": "74db450999d48bd3794129418b083c1b",
     "state": "CA"
   },
   "2112396": {
@@ -1261,7 +1261,7 @@
   },
   "2114724": {
     "bill_number": "AB1856",
-    "change_hash": "9136827886fcf605c8f0da076719bc77",
+    "change_hash": "3e1ab981430b5c4faaf0b131ed5ffb26",
     "state": "CA"
   },
   "2114993": {
@@ -1291,7 +1291,7 @@
   },
   "2117181": {
     "bill_number": "SB1094",
-    "change_hash": "015daea00cc33ddd99e1d72f81b24481",
+    "change_hash": "f97d5b3dcb439698134d9ca5f6430e64",
     "state": "CA"
   },
   "2117499": {
@@ -1321,7 +1321,7 @@
   },
   "2119620": {
     "bill_number": "AB2093",
-    "change_hash": "10e0a3fdd2d2ebc2835519c6126f1d0f",
+    "change_hash": "988af76dd1b237372d170b25f44a5409",
     "state": "CA"
   },
   "2119630": {
@@ -1346,7 +1346,7 @@
   },
   "2120649": {
     "bill_number": "AB2175",
-    "change_hash": "81296d1e9415a9909466261e4f6ba4af",
+    "change_hash": "5d14d0d8598629b21310f10ae265beae",
     "state": "CA"
   },
   "2120699": {
@@ -1356,7 +1356,7 @@
   },
   "2120720": {
     "bill_number": "AB2246",
-    "change_hash": "cb325fcf46fc2629e55a8e4773c400a2",
+    "change_hash": "919b13ceb233228fd9750befa10f67f2",
     "state": "CA"
   },
   "2120832": {
@@ -1386,7 +1386,7 @@
   },
   "2121576": {
     "bill_number": "AB2499",
-    "change_hash": "1ddb176db6daa09eb01fafa9f88e951c",
+    "change_hash": "489cac5bf8c994553c67c2df605f84d7",
     "state": "CA"
   },
   "2121638": {
@@ -1396,7 +1396,7 @@
   },
   "2121673": {
     "bill_number": "AB2596",
-    "change_hash": "4956195f458f2036005434905c951974",
+    "change_hash": "45ec4b9293a616165a5259fd1b82f864",
     "state": "CA"
   },
   "2121799": {
@@ -1406,7 +1406,7 @@
   },
   "2121908": {
     "bill_number": "SB1324",
-    "change_hash": "9559912208ad9a2fc173f7536f9ebc1d",
+    "change_hash": "d161d0961e98b91d6f96cf891f22c2f6",
     "state": "CA"
   },
   "2122506": {
@@ -1446,7 +1446,7 @@
   },
   "2130155": {
     "bill_number": "SB1433",
-    "change_hash": "60ab6160eef4260d201fd9e282f9c157",
+    "change_hash": "64937bcffe9ad838a9e4996f9db5dab2",
     "state": "CA"
   },
   "2130617": {
@@ -1651,12 +1651,12 @@
   },
   "2148556": {
     "bill_number": "H5001",
-    "change_hash": "67b4742cbaa110c021fabfa7eb3ed6aa",
+    "change_hash": "9a2443ed920db9630ea1dd355d13e314",
     "state": "FL"
   },
   "2148561": {
     "bill_number": "H5003",
-    "change_hash": "003667e19bc3466daea099a24e001fdb",
+    "change_hash": "de85035f3faca41f6ecf7b25f336fcac",
     "state": "FL"
   },
   "2150330": {
