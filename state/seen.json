@@ -409,6 +409,11 @@
     "change_hash": "0418bd2013d46fe51174dfc8d5e04987",
     "state": "CA"
   },
+  "1978634": {
+    "bill_number": "AB1099",
+    "change_hash": "52deff3db00d98d043d2af601f2210bc",
+    "state": "CA"
+  },
   "1978766": {
     "bill_number": "SB533",
     "change_hash": "823ece753f407a8032a367e40ab7baaf",
@@ -446,7 +451,7 @@
   },
   "1980543": {
     "bill_number": "SB813",
-    "change_hash": "59a611ed37fca500b52ab1d95a6c12b3",
+    "change_hash": "c1c468d9f4461beb929c4e67ba4b7172",
     "state": "CA"
   },
   "1980799": {
@@ -931,7 +936,7 @@
   },
   "2065686": {
     "bill_number": "AB1540",
-    "change_hash": "fe5c6698d9e48987a32f98596f90315a",
+    "change_hash": "510a38177c441b2fdfd78b42b00f77a0",
     "state": "CA"
   },
   "2066020": {
@@ -1071,7 +1076,7 @@
   },
   "2087619": {
     "bill_number": "SB898",
-    "change_hash": "c3ee3446308b08966b3ede074d7e303f",
+    "change_hash": "cbc3d532ded5b8be4dbd70173840e566",
     "state": "CA"
   },
   "2088234": {
@@ -1136,7 +1141,7 @@
   },
   "2095318": {
     "bill_number": "SB913",
-    "change_hash": "6bac353cf750d54149fbb7811424d773",
+    "change_hash": "bcf8e07548d02af679bb087bfe3d1738",
     "state": "CA"
   },
   "2095584": {
@@ -1176,7 +1181,12 @@
   },
   "2108283": {
     "bill_number": "AB1709",
-    "change_hash": "ed80954bf9f2c24c02088f9184718e5b",
+    "change_hash": "280e69b29d11eb3bc0f063ecc088574a",
+    "state": "CA"
+  },
+  "2108296": {
+    "bill_number": "SB973",
+    "change_hash": "87fc4a4da4dfa308cea58b3238b4b144",
     "state": "CA"
   },
   "2108521": {
@@ -1221,7 +1231,7 @@
   },
   "2114724": {
     "bill_number": "AB1856",
-    "change_hash": "fd4ef3c62d07290c9b14c9e6715bc294",
+    "change_hash": "1b8f6d19fa70899602f4dad7b2879427",
     "state": "CA"
   },
   "2114993": {
@@ -1251,7 +1261,7 @@
   },
   "2117181": {
     "bill_number": "SB1094",
-    "change_hash": "b8b6a71e2673e11206550cb22f8e1cb7",
+    "change_hash": "77e783b09726ac46f589a2df521d14c9",
     "state": "CA"
   },
   "2117499": {
@@ -1276,17 +1286,17 @@
   },
   "2119603": {
     "bill_number": "AB2076",
-    "change_hash": "d6d838e31e8d4328764c0b84b31e16e9",
+    "change_hash": "a564de9d258c3e4a387efecdcbd679d9",
     "state": "CA"
   },
   "2119620": {
     "bill_number": "AB2093",
-    "change_hash": "3df7655a94ec2c235a38cc9614b79896",
+    "change_hash": "c8730fa6e36db01167a8fc7e1ee1562f",
     "state": "CA"
   },
   "2119630": {
     "bill_number": "AB2103",
-    "change_hash": "a7ade51582e3369a3006bf5c3939d833",
+    "change_hash": "c8304e229df65c6710e9e61da3487faf",
     "state": "CA"
   },
   "2119696": {
@@ -1311,12 +1321,12 @@
   },
   "2120699": {
     "bill_number": "AB2225",
-    "change_hash": "5255748643d36783286cedfe1cd6bf6a",
+    "change_hash": "34a25fe2b6a52a59d47c507115248bdc",
     "state": "CA"
   },
   "2120720": {
     "bill_number": "AB2246",
-    "change_hash": "5e2275ff81ee2792b702fed4be7dc702",
+    "change_hash": "558ca2ff1b689caa8434bee69450aa78",
     "state": "CA"
   },
   "2120832": {
@@ -1356,7 +1366,7 @@
   },
   "2121673": {
     "bill_number": "AB2596",
-    "change_hash": "45ec4b9293a616165a5259fd1b82f864",
+    "change_hash": "660a3758dd633d624b825a8d13975340",
     "state": "CA"
   },
   "2121799": {
@@ -1366,7 +1376,7 @@
   },
   "2121908": {
     "bill_number": "SB1324",
-    "change_hash": "bda9c0d87e06c7c1a52ecd32d80edf5e",
+    "change_hash": "2d5dc6dfea5b1cf19df1ab87c4b34b1a",
     "state": "CA"
   },
   "2122506": {
@@ -1466,7 +1476,7 @@
   },
   "2133789": {
     "bill_number": "A10640",
-    "change_hash": "2f7805e93d86d47826d6f551fb7f3aea",
+    "change_hash": "47a99e6cfa37e252dadb5f329e9555ec",
     "state": "NY"
   },
   "2133845": {
